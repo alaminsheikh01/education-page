@@ -113,7 +113,8 @@ header{
 	
 }
 .circle{
-	width: 109px;
+	width: 103px;
+	height:100px;
     border-radius: 50%;
 }
 .text_p_1{

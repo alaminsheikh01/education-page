@@ -7,7 +7,9 @@
 	.list-part ul {
     text-align: center;
 }
-
+.text-rights p {
+    margin-bottom: 34px;
+}
 .follow_me {
     margin-left: -214px;
 }

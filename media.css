@@ -4,15 +4,6 @@
 .logo{
 	width: 150px;
 }
-	.list-part ul {
-    text-align: center;
-}
-.text-rights p {
-    margin-bottom: 34px;
-}
-.follow_me {
-    margin-left: -214px;
-}
 .menu ul li a {
       text-align: left;
    margin-left: -4px;
@@ -73,13 +64,13 @@
     font-size: 11px;
 }
 .list-part ul li {
-    font-size: 10px;
+    font-size: 12px;
 }
 .singles h2 {
     font-size: 16px;
 }
 .right-part p {
-    font-size: 12px;
+    font-size: 13px;
     margin-top: -20px;
     text-align: center;
 }
@@ -121,9 +112,13 @@
     text-align: left;
     margin-left: 0;
 }
+.list-part ul {
+    text-align: center;
+}
 
-
-
+.follow_me {
+    margin-left: -214px;
+}
 
 
 
@@ -244,6 +239,12 @@
    margin-left: -4px;
     margin-top: -8px;
     display: inline-block;
+}
+.event {
+    margin-top: 19px;
+}
+.footer-part {
+    margin-top: 20px;
 }
 .card-cus {
     margin-bottom: 21px;

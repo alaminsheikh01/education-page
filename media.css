@@ -116,9 +116,28 @@
     text-align: center;
 }
 
-.follow_me {
-        margin-left: -165px;
+
+.o_texts h1 {
+    font-size: 21px;
+    margin-top: 43px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
 
@@ -310,6 +329,10 @@
 }
 .card-title3 {
     letter-spacing: 1px;
+}
+.menu ul li a{
+    padding: 0 9px !important;
+
 }
 .img-news {
     width: 219px;

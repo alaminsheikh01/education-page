@@ -4,6 +4,13 @@
 .logo{
 	width: 150px;
 }
+	.list-part ul {
+    text-align: center;
+}
+
+.follow_me {
+    margin-left: -214px;
+}
 .menu ul li a {
       text-align: left;
    margin-left: -4px;

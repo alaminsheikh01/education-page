@@ -1,0 +1,342 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /*header start*/
+.logo{
+	width: 150px;
+}
+.menu ul li a {
+      text-align: left;
+   margin-left: -4px;
+    margin-top: -8px;
+    display: inline-block;
+}
+.menu ul li{
+        transition: .5s;
+        padding: 2px 0;
+    }
+    .menu ul li:hover{
+        color: red;
+    }
+    .btn-cus{
+        padding: 4px 10px;
+    }
+    /*header end*/
+ /*teacher*/
+ .tea-img {
+    text-align: center;
+    margin-bottom: 19px;
+}
+.teacher-text {
+    text-align: center;
+}
+.logo-cus{
+    margin-bottom: 3px;
+}
+.follow_me{
+        font-size: 15px;
+}
+ /*teacher*/
+
+.banner{
+    background-image: none;
+}
+.ba_text {
+    margin-top: 82px;
+    margin-bottom: 123px;
+}
+.ba_text h1 {
+    font-size: 29px;
+}
+.o_text h1 {
+    font-size: 18px;
+    margin-top: 14px;
+}
+.singles {
+    margin-top: 24px;
+}
+.tweeter p {
+    margin-top: 9px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    font-size: 16px;
+}
+.list-part ul li a {
+    font-size: 11px;
+}
+.list-part ul li {
+    font-size: 12px;
+}
+.singles h2 {
+    font-size: 16px;
+}
+.right-part p {
+    font-size: 13px;
+    margin-top: -20px;
+    text-align: center;
+}
+.btn-img {
+    width: 134px;
+    margin-top: 3px;
+}
+.card-cus {
+    margin-bottom: 29px;
+}
+.memo-button1 {
+    width: 117px;
+    margin-bottom: 48px;
+    margin-top: 32px;
+}
+.tea-img {
+    margin-top: 0px;
+    border-radius: 43%;
+}
+.follow_me {
+    font-size: 14px;
+    margin-left: -162px;
+    margin-top: -6px;
+}
+
+.text-left h1 {
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+
+.img-small {
+    margin: -22px 0 0 11px;
+    width: 105px;
+}
+.res a {
+    font-size: 12px;
+}
+.text-rights {
+    text-align: left;
+    margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+.menu ul li a {
+      text-align: left;
+   margin-left: -4px;
+    margin-top: -8px;
+    display: inline-block;
+}
+.card-cus {
+    margin-bottom: 18px;
+}
+.menu ul li{
+        transition: .5s;
+        padding: 2px 0;
+    }
+    .menu ul li:hover{
+        color: red;
+    }
+      .btn-cus{
+        padding: 4px 10px;
+    }
+    /*header end*/
+
+.o_text1 h2 {
+    font-size: 22px;
+}
+.o_text1 p {
+    font-size: 16px;
+    line-height: 24px;
+    }
+ .btn-img {
+    width: 158px;
+    margin-top: 15px;
+ }
+ .card_cus {
+    margin-bottom: 21px;
+ }
+ .memo-button1 {
+    width: 132px;
+    margin-bottom: 50px;
+    margin-top: 26px;
+    }         
+.o_text h1 {
+    font-size: 18px;
+ }
+ .o_text hr {
+    width: 184px;
+    margin-bottom: 30px;
+    margin-top: 19px;
+}   
+.text-left h1 {
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.text-left p {
+    font-size: 11px;
+}
+.single-part {
+    margin-left: 57px;
+}
+.img-news {
+    width: 173px;
+}
+.text-rights {
+    margin-left: 54px;
+}
+.text-rights h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.text-rights p {
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0;
+}
+.list-part ul {
+    text-align: center;
+}
+
+.right-part p {
+    text-align: center;
+}
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*header start*/
+.menu ul li a {
+      text-align: left;
+   margin-left: -4px;
+    margin-top: -8px;
+    display: inline-block;
+}
+.card-cus {
+    margin-bottom: 21px;
+}
+.menu ul li{
+        transition: .5s;
+        padding: 2px 0;
+    }
+    .menu ul li:hover{
+        color: red;
+    }
+.d-search {
+    left: 50px;
+    top: 45px;
+}
+    /*header end*/
+/*banner start*/
+
+.ba_text h1 {
+    margin-top: 56px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+        font-size: 34px;
+
+}
+.ba_scroll {
+    margin-top: -92px;
+}
+.o_text h1 {
+        font-size: 20px;
+    margin-top: 38px;
+}
+/*banner end*/
+/*feature start*/
+
+/*feature end*/
+
+.footer_img {
+    width: 151px;
+}
+.list-part ul li {
+    font-size: 13px;
+}
+.footer-part { 
+    margin-bottom: 12px;
+}
+.right-part p {
+    font-size: 11px;
+    }
+
+    /*teacher*/
+    .teachers {
+    margin-bottom: 54px;
+}
+.card_cus{
+        margin-bottom: 29px;
+}
+.text-left h1 {
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.text-rights {
+    margin-left: -16px;
+    }
+ .text-rights h1 {
+    font-size: 18px;
+    letter-spacing: 0px;
+    }
+.text-rights p {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0;
+    }       
+
+    /*teacher*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.o_text h1 {
+    font-size: 27px;
+}
+.card-title3 {
+    letter-spacing: 1px;
+}
+.img-news {
+    width: 219px;
+}
+.footer-part {
+    margin-top: 45px;}
+ .singles img {
+    width: 174px;
+        margin-bottom: 30px;}
+ }
+ .singles {
+    margin-top: 39px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+
+ }

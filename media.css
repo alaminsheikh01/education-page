@@ -121,7 +121,9 @@
     font-size: 21px;
     margin-top: 43px;
 }
-
+.o_text h1 {
+    padding-top: 29px;
+}
 
 
 
@@ -243,6 +245,10 @@
 .event {
     margin-top: 19px;
 }
+.custom-dropdown {
+    top: 155%;
+    left: 40px;
+}
 .footer-part {
     margin-top: 20px;
 }
@@ -331,7 +337,7 @@
     letter-spacing: 1px;
 }
 .menu ul li a{
-    padding: 0 7px !important;
+    padding: 0 9px !important;
 
 }
 .img-news {

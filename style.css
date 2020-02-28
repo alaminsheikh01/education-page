@@ -262,7 +262,7 @@ header{
 
 .cus-card{
 	    border-radius: 4%;
-    box-shadow: 6px 5px #cacac9;
+      box-shadow: 10px -4px 6px 1px #deded9;
 }
 .card-header0{
 	background-color: #1ec0ff;
@@ -474,7 +474,6 @@ header{
 .addr{
 	    margin-left: 51px;
 }
-
 
 /*footer part*/
 /*footer*/
